@@ -17,6 +17,9 @@ body, html{
   margin-left: 1cm;
   height: 1cm;
 }
+#messageList{
+  color: white;
+}
 .App-header {
   background-color: #282c34;
   min-height: 10vh;

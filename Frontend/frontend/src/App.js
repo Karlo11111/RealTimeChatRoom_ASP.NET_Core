@@ -33,7 +33,7 @@ function App() {
   const handleSendMessage = async () => {
   if (connection.current) {
   // sending the message using connection.current object
-  await connection.current.invoke("SendMessage", "YourUserName", newMessage);
+  await connection.current.invoke("SendMessage", "New User", newMessage);
   // clear input field
   setNewMessage("");
   } else {
@@ -50,8 +50,8 @@ function App() {
         <body>
           <p className="messageText">Messages</p>
           <div className="MessageContainer">
-            <input type="text" className="textInput" placeholder="Input your message" value={newMessage} // Bind input value to
-              newMessage state onChange={(e)=> setNewMessage(e.target.value)} // Update newMessage on input change
+            <input type="text" className="textInput" placeholder="Input your message" value={newMessage} 
+              newMessage state onChange={(e)=> setNewMessage(e.target.value)} required // Update newMessage on input change
             />
             <button className="sendMessageButton" value="Send Message" id="sendMessageButton" onClick={handleSendMessage}>
               Send Message

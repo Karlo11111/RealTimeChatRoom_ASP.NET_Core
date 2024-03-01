@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ASP.NET_CORE-projects\\RealTimeChatRoom\\Backend\\Backend\\Backend.csproj": {}
+    "E:\\ASP.NET_CORE-projects\\RealTimeChatRoom\\RealTimeChatRoom_ASP.NET_Core\\Backend\\Backend\\Backend.csproj": {}
   },
   "projects": {
-    "E:\\ASP.NET_CORE-projects\\RealTimeChatRoom\\Backend\\Backend\\Backend.csproj": {
+    "E:\\ASP.NET_CORE-projects\\RealTimeChatRoom\\RealTimeChatRoom_ASP.NET_Core\\Backend\\Backend\\Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ASP.NET_CORE-projects\\RealTimeChatRoom\\Backend\\Backend\\Backend.csproj",
+        "projectUniqueName": "E:\\ASP.NET_CORE-projects\\RealTimeChatRoom\\RealTimeChatRoom_ASP.NET_Core\\Backend\\Backend\\Backend.csproj",
         "projectName": "Backend",
-        "projectPath": "E:\\ASP.NET_CORE-projects\\RealTimeChatRoom\\Backend\\Backend\\Backend.csproj",
+        "projectPath": "E:\\ASP.NET_CORE-projects\\RealTimeChatRoom\\RealTimeChatRoom_ASP.NET_Core\\Backend\\Backend\\Backend.csproj",
         "packagesPath": "C:\\Users\\karlo\\.nuget\\packages\\",
-        "outputPath": "E:\\ASP.NET_CORE-projects\\RealTimeChatRoom\\Backend\\Backend\\obj\\",
+        "outputPath": "E:\\ASP.NET_CORE-projects\\RealTimeChatRoom\\RealTimeChatRoom_ASP.NET_Core\\Backend\\Backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\karlo\\AppData\\Roaming\\NuGet\\NuGet.Config",

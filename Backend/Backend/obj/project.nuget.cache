@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GlGjSVaM4itBopKTVAGh4E2pdT7H325rEiUSz/9MWqMttgxHUPnofonJ58tPIpZ2aPD8z7dTT4Wl9l4LeRKoXw==",
+  "dgSpecHash": "E9/ztVAJ3V/liHrRKmXr1yyMqJiTJJKvbhJY680XTOOUjVSMLLkAd1NykKK2dgZe649wLRjrHPcjQNepkS1avQ==",
   "success": true,
-  "projectFilePath": "E:\\ASP.NET_CORE-projects\\RealTimeChatRoom\\Backend\\Backend\\Backend.csproj",
+  "projectFilePath": "E:\\ASP.NET_CORE-projects\\RealTimeChatRoom\\RealTimeChatRoom_ASP.NET_Core\\Backend\\Backend\\Backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\karlo\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\karlo\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.2.0\\microsoft.aspnetcore.authorization.2.2.0.nupkg.sha512",
