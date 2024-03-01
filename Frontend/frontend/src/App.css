@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+body, html{
+  background-color: #282c34
+}
+.messageText{
+  color: white;
+  font-size: x-large;
+}
+.sendMessageButton{
+  margin-left: 1cm;
+  height: 1cm;
+}
+.textInput{
+  margin-left: 1cm;
+  height: 1cm;
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: top;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
